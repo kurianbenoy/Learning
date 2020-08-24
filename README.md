@@ -13,7 +13,17 @@
 - SQL
   - [ ] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
   - [ ] Intro to Kaggle SQL course
+    - Getting started
+    - Select, from , where
+    - Groupby, Having, count
+    - order by
+    - as and with
+    - joining data
   - [ ] Advanced Kaggle SQL course
+    - Join and unions
+    - Analytic functions
+    - Nested and repeated data
+    - Write efficient queries
 
 ## Research Papers
 
