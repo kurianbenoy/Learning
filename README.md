@@ -34,4 +34,13 @@
 ## Online Course
 
 - CS 229 ML course - Andrew NG
-  - [ ] Lesson 14: Expectation maximisation theoreum
+  https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+  - [x] Lesson 14: Expectation maximisation theoreum
+  - [ ] 15: EM Algorithm and factor analysis
+  - [ ] 16: Independent Component Analysis
+  - [ ] 17. MDPs and Value Policy iteration
+  - [ ] 18. Continuos State MDP and model simulation
+  - [ ] 19. Reward model and linear dynamic system
+  - [ ] 20. RL Debugging and diagnostics
+  
+- FastAI(Practical course for beginners) - 2020 
