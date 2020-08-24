@@ -44,3 +44,8 @@
   - [ ] 20. RL Debugging and diagnostics
   
 - FastAI(Practical course for beginners) - 2020 
+
+## Books
+
+- Approaching almost any machine learning problems
+  - [ ] Approaching Categorical variables
