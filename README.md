@@ -16,3 +16,8 @@
 - [x] [GPT-2 Language models are unsupervised learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 - [ ] [GPT 3- Language models are few shot learners](https://arxiv.org/abs/2005.14165)
 - [X] [Seq2SQL paper](https://arxiv.org/pdf/1709.00103v7.pdf)
+
+## Online Course
+
+- CS 229 ML course - Andrew NG
+  - [ ] Lesson 14: Expectation maximisation theoreum
