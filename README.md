@@ -9,7 +9,11 @@
   - Getting started - https://redash.io/help/user-guide/getting-started
   - Setup - https://redash.io/help/open-source/setup
   - Other source - https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/
-
+ 
+- SQL
+  - [ ] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
+  - [ ] Intro to Kaggle SQL course
+  - [ ] Advanced Kaggle SQL course
 
 ## Research Papers
 
