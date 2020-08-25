@@ -11,8 +11,8 @@
   - Other source - https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/
  
 - SQL
-  - [ ] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
-  - [ ] Intro to Kaggle SQL course
+  - [x] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
+  - [x] Intro to Kaggle SQL course
     - Getting started
     - Select, from , where
     - Groupby, Having, count
