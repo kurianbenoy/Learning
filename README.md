@@ -13,6 +13,12 @@
   - [x] Create Redash titanic example
   - [ ] Create redash application
   - [ ] Read complete redash user guide
+    - [ ] Querying
+    - [x] Visualisation
+    - [x] Dashboard
+    - [ ] Alerts
+    - [ ] User, groups and permissions
+    - [ ] Data sources and querying
   
 * Mongo DB basics 
  
