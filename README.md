@@ -7,12 +7,14 @@
 * Redash
 
   - [x] Getting started - https://redash.io/help/user-guide/getting-started
-  - [] Setup - https://redash.io/help/open-source/setup
+  - [ ] Setup - https://redash.io/help/open-source/setup
   - [x] Other source - https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/
   - [x] Watch [Redash youtube videos](https://www.youtube.com/channel/UCZWXs5WDtDKlmDDX5A84YPQ)
-  - [ ] Create Redash titanic example
+  - [x] Create Redash titanic example
   - [ ] Create redash application
   - [ ] Read complete redash user guide
+  
+* Mongo DB basics 
  
 - SQL
   - [x] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
