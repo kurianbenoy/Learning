@@ -68,4 +68,4 @@
   
   ## Talks
   
-  - [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
+  - [x] [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
