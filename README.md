@@ -7,13 +7,13 @@
 * Redash
 
   - [x] Getting started - https://redash.io/help/user-guide/getting-started
-  - [ ] Setup - https://redash.io/help/open-source/setup
+  - [x] Setup - https://redash.io/help/open-source/setup
   - [x] Other source - https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/
   - [x] Watch [Redash youtube videos](https://www.youtube.com/channel/UCZWXs5WDtDKlmDDX5A84YPQ)
   - [x] Create Redash titanic example
   - [ ] Create redash application
   - [ ] Read complete redash user guide
-    - [ ] Querying
+    - [x] Querying
     - [x] Visualisation
     - [x] Dashboard
     - [ ] Alerts
