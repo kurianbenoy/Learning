@@ -62,3 +62,6 @@
 
 - Approaching almost any machine learning problems
   - [x] Approaching Categorical variables
+  - [ ] Feature Engineering
+  - [ ] Approaching almost any CV problem
+  - [ ] Approaching almost any NLP problem
