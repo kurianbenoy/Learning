@@ -43,8 +43,9 @@
   - [ ] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
   - [ ] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
   - docker container deletion
-  ```
-  Removes every image/volume/conatiners ---> docker system prune -a and to remove only one ---> docker rm ID_or_Name ID_or_Name```
+  > Removes every image/volume/conatiners ---> docker system prune -a
+  
+  > and to remove only one ---> docker rm ID_or_Name ID_or_Name```
 
 ## Research Papers
 
@@ -56,7 +57,7 @@
 
 - CS 229 ML course - Andrew NG
   https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-  - [x] Lesson 14: Expectation maximisation theoreum
+  - [x] Lesson 14: Expectation maximisation theoreum  ```
   - [ ] 15: EM Algorithm and factor analysis
   - [ ] 16: Independent Component Analysis
   - [ ] 17. MDPs and Value Policy iteration
