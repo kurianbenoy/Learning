@@ -37,6 +37,15 @@
     - Nested and repeated data
     - Write efficient queries
 
+## Software Engineering
+
+- Docker
+  - [ ] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+  - [ ] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
+  - docker container deletion
+  ```
+  Removes every image/volume/conatiners ---> docker system prune -a and to remove only one ---> docker rm ID_or_Name ID_or_Name```
+
 ## Research Papers
 
 - [x] [GPT-2 Language models are unsupervised learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
