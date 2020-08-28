@@ -60,7 +60,7 @@
 - CS 229 ML course - Andrew NG
   https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
   - [x] Lesson 14: Expectation maximisation theoreum  ```
-  - [ ] 15: EM Algorithm and factor analysis
+  - [x] 15: EM Algorithm and factor analysis
   - [ ] 16: Independent Component Analysis
   - [ ] 17. MDPs and Value Policy iteration
   - [ ] 18. Continuos State MDP and model simulation
@@ -81,3 +81,4 @@
   ## Talks
   
   - [x] [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
+  - [ ] [Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)](https://www.youtube.com/watch?v=gT8-wDPLOBg)
