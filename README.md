@@ -66,8 +66,16 @@
   - [ ] 18. Continuos State MDP and model simulation
   - [ ] 19. Reward model and linear dynamic system
   - [ ] 20. RL Debugging and diagnostics
-  
-  -
+ 
+- Full Stack Deep learning course
+  - Setting up ML Projects
+    - [x] Overview
+    - [x] Lifecycle
+    - [x] Prioritizing
+    - [ ] Archetypes
+    - [ ] Metrics
+    - [ ] Baselines
+ 
 - FastAI(Practical course for beginners) - 2020 
 
 ## Books
