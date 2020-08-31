@@ -1,6 +1,7 @@
-# Learnday
+# Learning
 
 - learn something new everyday
+- What I cannot create, I do not understand
 
 ## Buisness Domain knowledge
 
