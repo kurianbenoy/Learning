@@ -41,7 +41,7 @@
 ## Software Engineering
 
 - Docker
-  - [ ] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+  - [x] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
   - [ ] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
   - docker container deletion
   > Removes every image/volume/conatiners ---> docker system prune -a
