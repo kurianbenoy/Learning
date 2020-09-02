@@ -12,6 +12,7 @@
   - [x] Watch [Redash youtube videos](https://www.youtube.com/channel/UCZWXs5WDtDKlmDDX5A84YPQ)
   - [x] Create Redash titanic example
   - [ ] Create redash application
+  - [x] [Redash MongoDB page](https://redash.io/help/data-sources/querying/mongodb)
   - [ ] Read complete redash user guide
     - [x] Querying
     - [x] Visualisation
@@ -22,6 +23,9 @@
   
 * Mongo DB basics 
   - [ ] https://www.youtube.com/watch?v=-56x56UppqQ
+  - [x] Mongo DB introduction
+  - [x] [Structure your data for MongoDB](https://docs.mongodb.com/guides/server/introduction/)
+  - [ ] Mongodb aggregation
 
  
 - SQL
