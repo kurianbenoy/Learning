@@ -21,6 +21,8 @@
     - [ ] Data sources and querying
   
 * Mongo DB basics 
+  - [ ] https://www.youtube.com/watch?v=-56x56UppqQ
+
  
 - SQL
   - [x] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
@@ -48,6 +50,8 @@
   > and to remove only one ---> docker rm ID_or_Name ID_or_Name```
   
   > sudo docker-compose down --rmi all
+  - [ ] Docker-compose 101
+  - [ ] Docker networks
 
 ## Research Papers
 
