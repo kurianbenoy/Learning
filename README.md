@@ -60,8 +60,9 @@
 ## Research Papers
 
 - [x] [GPT-2 Language models are unsupervised learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
-- [ ] [GPT 3- Language models are few shot learners](https://arxiv.org/abs/2005.14165)
+- [x] [GPT 3- Language models are few shot learners](https://arxiv.org/abs/2005.14165)
 - [X] [Seq2SQL paper](https://arxiv.org/pdf/1709.00103v7.pdf)
+- [x] [Bert based Sentiment analysis & key-entity recognition](https://arxiv.org/abs/2001.05326)
 
 ## Online Course
 
@@ -82,7 +83,8 @@
 
 - Approaching almost any machine learning problems
   - [x] Approaching Categorical variables
-  - [ ] Feature Engineering
+  - [x] Feature Engineering
+  - [x] Feature selection
   - [ ] Approaching almost any CV problem
   - [ ] Approaching almost any NLP problem
   
@@ -90,3 +92,4 @@
   
   - [x] [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
   - [ ] [Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)](https://www.youtube.com/watch?v=gT8-wDPLOBg)
+  - [x] [Becoming hireable as a datascientist 2022 - Ajinkya Kohli](https://www.youtube.com/watch?v=Mas--YzMLwQ)
