@@ -91,3 +91,4 @@
   
   - [x] [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
   - [ ] [Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)](https://www.youtube.com/watch?v=gT8-wDPLOBg)
+  - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
