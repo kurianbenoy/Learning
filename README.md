@@ -49,12 +49,12 @@
   - [x] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
   - [x] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
   - docker container deletion
-  > Removes every image/volume/conatiners ---> docker system prune -a
+  > Removes every image/volume/conatiners ---> docker system prune -a, system prune volume
   
   > and to remove only one ---> docker rm ID_or_Name ID_or_Name```
   
   > sudo docker-compose down --rmi all
-  - [ ] Docker-compose 101
+  - [ ] [Docker-compose 101](https://www.tutorialspoint.com/docker/docker_compose.htm)
   - [ ] Docker networks
 
 ## Research Papers
@@ -63,6 +63,7 @@
 - [x] [GPT 3- Language models are few shot learners](https://arxiv.org/abs/2005.14165)
 - [X] [Seq2SQL paper](https://arxiv.org/pdf/1709.00103v7.pdf)
 - [x] [Bert based Sentiment analysis & key-entity recognition](https://arxiv.org/abs/2001.05326)
+- [ ] [Extracting sentiment attitudes from Analytical Text](https://paperswithcode.com/paper/extracting-sentiment-attitudes-from)
 
 ## Online Course
 
