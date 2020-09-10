@@ -22,10 +22,11 @@
     - [ ] Data sources and querying
   
 * Mongo DB basics 
-  - [ ] https://www.youtube.com/watch?v=-56x56UppqQ
+  - [ ] [Crash course with mongodb](https://www.youtube.com/watch?v=-56x56UppqQ)
   - [x] Mongo DB introduction
   - [x] [Structure your data for MongoDB](https://docs.mongodb.com/guides/server/introduction/)
   - [ ] Mongodb aggregation
+  - [x] Mongo db documents, datasets
 
  
 - SQL
