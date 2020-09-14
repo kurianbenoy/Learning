@@ -58,6 +58,9 @@
   - [ ] [Docker-compose 101](https://www.tutorialspoint.com/docker/docker_compose.htm)
   - [ ] Docker networks
 
+- [x] [Generators](https://realpython.com/introduction-to-python-generators/)
+
+
 ## Research Papers
 
 - [x] [GPT-2 Language models are unsupervised learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
