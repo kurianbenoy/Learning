@@ -13,6 +13,7 @@
   - [x] Watch [Redash youtube videos](https://www.youtube.com/channel/UCZWXs5WDtDKlmDDX5A84YPQ)
   - [x] Create Redash titanic example
   - [ ] Create redash application
+  - [x] [Redash MongoDB page](https://redash.io/help/data-sources/querying/mongodb)
   - [ ] Read complete redash user guide
     - [x] Querying
     - [x] Visualisation
@@ -22,6 +23,12 @@
     - [ ] Data sources and querying
   
 * Mongo DB basics 
+  - [ ] [Crash course with mongodb](https://www.youtube.com/watch?v=-56x56UppqQ)
+  - [x] Mongo DB introduction
+  - [x] [Structure your data for MongoDB](https://docs.mongodb.com/guides/server/introduction/)
+  - [ ] Mongodb aggregation
+  - [x] Mongo db documents, datasets
+
  
 - SQL
   - [x] https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
@@ -44,17 +51,24 @@
   - [x] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
   - [ ] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
   - docker container deletion
-  > Removes every image/volume/conatiners ---> docker system prune -a
+  > Removes every image/volume/conatiners ---> docker system prune -a, system prune volume
   
   > and to remove only one ---> docker rm ID_or_Name ID_or_Name```
   
   > sudo docker-compose down --rmi all
+  - [ ] [Docker-compose 101](https://www.tutorialspoint.com/docker/docker_compose.htm)
+  - [ ] Docker networks
+
+- [x] [Generators](https://realpython.com/introduction-to-python-generators/)
+
 
 ## Research Papers
 
 - [x] [GPT-2 Language models are unsupervised learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
-- [ ] [GPT 3- Language models are few shot learners](https://arxiv.org/abs/2005.14165)
+- [x] [GPT 3- Language models are few shot learners](https://arxiv.org/abs/2005.14165)
 - [X] [Seq2SQL paper](https://arxiv.org/pdf/1709.00103v7.pdf)
+- [x] [Bert based Sentiment analysis & key-entity recognition](https://arxiv.org/abs/2001.05326)
+- [ ] [Extracting sentiment attitudes from Analytical Text](https://paperswithcode.com/paper/extracting-sentiment-attitudes-from)
 
 ## Online Course
 
@@ -84,6 +98,8 @@
 - Approaching almost any machine learning problems
   - [x] Approaching Categorical variables
   - [x] Feature Engineering
+  - [x] Feature selection
+
   - [ ] Approaching almost any CV problem
   - [x] Approaching almost any NLP problem
   - [ ] Approaching ensembling and stacking
@@ -95,4 +111,6 @@
   
   - [x] [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
   - [ ] [Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)](https://www.youtube.com/watch?v=gT8-wDPLOBg)
+  - [x] [Becoming hireable as a datascientist 2022 - Ajinkya Kohli](https://www.youtube.com/watch?v=Mas--YzMLwQ)
+  - [x] [SPACY'S ENTITY RECOGNITION MODEL: incremental parsing with Bloom embeddings & residual CNNs](https://www.youtube.com/watch?v=sqDHBH9IjRU)
   - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
