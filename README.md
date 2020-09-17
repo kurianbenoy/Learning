@@ -73,9 +73,9 @@
     - [x] Overview
     - [x] Lifecycle
     - [x] Prioritizing
-    - [ ] Archetypes
-    - [ ] Metrics
-    - [ ] Baselines
+    - [x] Archetypes
+    - [x] Metrics
+    - [x] Baselines
  
 - FastAI(Practical course for beginners) - 2020 
 
@@ -83,9 +83,13 @@
 
 - Approaching almost any machine learning problems
   - [x] Approaching Categorical variables
-  - [ ] Feature Engineering
+  - [x] Feature Engineering
   - [ ] Approaching almost any CV problem
-  - [ ] Approaching almost any NLP problem
+  - [x] Approaching almost any NLP problem
+  - [ ] Approaching ensembling and stacking
+  - [ ] Approaching reproducible code & model serving
+  - [x] Hyperparameter optimization
+  - [ ] Arranging ML projects
   
   ## Talks
   
