@@ -1,6 +1,7 @@
-# Learnday
+# Learning
 
 - learn something new everyday
+- What I cannot create, I do not understand
 
 ## Buisness Domain knowledge
 
@@ -48,7 +49,7 @@
 
 - Docker
   - [x] [how-docker-can-help-you-become-a-more-effective-data-scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
-  - [x] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
+  - [ ] [Docker in action notes](https://notes.hamel.dev/docs/docker/Docker-In-Action.html)
   - docker container deletion
   > Removes every image/volume/conatiners ---> docker system prune -a, system prune volume
   
@@ -80,8 +81,16 @@
   - [ ] 18. Continuos State MDP and model simulation
   - [ ] 19. Reward model and linear dynamic system
   - [ ] 20. RL Debugging and diagnostics
-  
-  -
+ 
+- Full Stack Deep learning course
+  - Setting up ML Projects
+    - [x] Overview
+    - [x] Lifecycle
+    - [x] Prioritizing
+    - [x] Archetypes
+    - [x] Metrics
+    - [x] Baselines
+ 
 - FastAI(Practical course for beginners) - 2020 
 
 ## Books
@@ -90,12 +99,18 @@
   - [x] Approaching Categorical variables
   - [x] Feature Engineering
   - [x] Feature selection
+
   - [ ] Approaching almost any CV problem
-  - [ ] Approaching almost any NLP problem
+  - [x] Approaching almost any NLP problem
+  - [ ] Approaching ensembling and stacking
+  - [ ] Approaching reproducible code & model serving
+  - [x] Hyperparameter optimization
+  - [ ] Arranging ML projects
   
   ## Talks
   
   - [x] [To grandmaster validation strategy & journey](https://kommunity.com/kaggle-days-meetup-istanbul/events/top-grandmasters-kaggle-journeys-and-validation-strategies-8fef83ef)
   - [ ] [Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)](https://www.youtube.com/watch?v=gT8-wDPLOBg)
   - [x] [Becoming hireable as a datascientist 2022 - Ajinkya Kohli](https://www.youtube.com/watch?v=Mas--YzMLwQ)
-  - [ ] [SPACY'S ENTITY RECOGNITION MODEL: incremental parsing with Bloom embeddings & residual CNNs](https://www.youtube.com/watch?v=sqDHBH9IjRU)
+  - [x] [SPACY'S ENTITY RECOGNITION MODEL: incremental parsing with Bloom embeddings & residual CNNs](https://www.youtube.com/watch?v=sqDHBH9IjRU)
+  - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
