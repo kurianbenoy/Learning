@@ -96,12 +96,14 @@
 ## Books
 
 - Approaching almost any machine learning problems
-  - [x] Approaching Categorical variables
+  - [x] Appraching Categorical variables
   - [x] Feature Engineering
   - [x] Feature selection
-
+  - [x] Cross-validation
+  - [x] Evaluation Metrics
+  - [x] Supervised vs Unsupervised learning
   - [ ] Approaching almost any CV problem
-  - [x] Approaching almost any NLP problem
+  - [x] Approaching text classification/regression
   - [ ] Approaching ensembling and stacking
   - [ ] Approaching reproducible code & model serving
   - [x] Hyperparameter optimization
