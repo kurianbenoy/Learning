@@ -69,6 +69,7 @@
 - [X] [Seq2SQL paper](https://arxiv.org/pdf/1709.00103v7.pdf)
 - [x] [Bert based Sentiment analysis & key-entity recognition](https://arxiv.org/abs/2001.05326)
 - [ ] [Extracting sentiment attitudes from Analytical Text](https://paperswithcode.com/paper/extracting-sentiment-attitudes-from)
+- [x] Array programming with numpy
 
 ## Online Course
 
