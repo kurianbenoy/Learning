@@ -70,6 +70,7 @@
 - [x] [Bert based Sentiment analysis & key-entity recognition](https://arxiv.org/abs/2001.05326)
 - [ ] [Extracting sentiment attitudes from Analytical Text](https://paperswithcode.com/paper/extracting-sentiment-attitudes-from)
 - [x] Array programming with numpy
+- [x] Efficent Transformers(survey)
 
 ## Online Course
 
@@ -108,7 +109,7 @@
   - [ ] Approaching ensembling and stacking
   - [ ] Approaching reproducible code & model serving
   - [x] Hyperparameter optimization
-  - [ ] Arranging ML projects
+  - [x] Arranging ML projects
   
   ## Talks
   
@@ -117,3 +118,6 @@
   - [x] [Becoming hireable as a datascientist 2022 - Ajinkya Kohli](https://www.youtube.com/watch?v=Mas--YzMLwQ)
   - [x] [SPACY'S ENTITY RECOGNITION MODEL: incremental parsing with Bloom embeddings & residual CNNs](https://www.youtube.com/watch?v=sqDHBH9IjRU)
   - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
+  - [x] [Network like a pro-sanyam](https://www.youtube.com/watch?v=joQ98JUIWV4)
+  
+  
