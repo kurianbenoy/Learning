@@ -54,6 +54,8 @@
   > Removes every image/volume/conatiners ---> docker system prune -a, system prune volume
   
   > and to remove only one ---> docker rm ID_or_Name ID_or_Name```
+  - [x] [Docker filesystem](https://medium.com/@BeNitinAgarwal/docker-containers-filesystem-demystified-b6ed8112a04a)
+  - [ ] [Docker file storage driver](https://docs.docker.com/storage/storagedriver/)
   
   > sudo docker-compose down --rmi all
   - [ ] [Docker-compose 101](https://www.tutorialspoint.com/docker/docker_compose.htm)
