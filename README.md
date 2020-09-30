@@ -19,14 +19,14 @@
     - [x] Visualisation
     - [x] Dashboard
     - [ ] Alerts
-    - [ ] User, groups and permissions
-    - [ ] Data sources and querying
+    - [x] User, groups and permissions
+    - [x] Data sources and querying
   
 * Mongo DB basics 
-  - [ ] [Crash course with mongodb](https://www.youtube.com/watch?v=-56x56UppqQ)
+  - [x] [Crash course with mongodb](https://www.youtube.com/watch?v=-56x56UppqQ)
   - [x] Mongo DB introduction
   - [x] [Structure your data for MongoDB](https://docs.mongodb.com/guides/server/introduction/)
-  - [ ] Mongodb aggregation
+  - [x] Mongodb aggregation
   - [x] Mongo db documents, datasets
 
  
