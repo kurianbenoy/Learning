@@ -121,5 +121,6 @@
   - [x] [SPACY'S ENTITY RECOGNITION MODEL: incremental parsing with Bloom embeddings & residual CNNs](https://www.youtube.com/watch?v=sqDHBH9IjRU)
   - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
   - [x] [Network like a pro-sanyam](https://www.youtube.com/watch?v=joQ98JUIWV4)
+  - [x] [Ensembling, Blending and stacking](https://www.youtube.com/watch?v=TuIgtitqJho)
   
   
