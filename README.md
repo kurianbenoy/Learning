@@ -108,7 +108,7 @@
   - [x] Supervised vs Unsupervised learning
   - [ ] Approaching almost any CV problem
   - [x] Approaching text classification/regression
-  - [ ] Approaching ensembling and stacking
+  - [x] Approaching ensembling and stacking
   - [ ] Approaching reproducible code & model serving
   - [x] Hyperparameter optimization
   - [x] Arranging ML projects
@@ -122,5 +122,6 @@
   - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
   - [x] [Network like a pro-sanyam](https://www.youtube.com/watch?v=joQ98JUIWV4)
   - [x] [Ensembling, Blending and stacking](https://www.youtube.com/watch?v=TuIgtitqJho)
+  - [ ] [The Don'ts of Data Science & Kaggling" with Rohan Rao](https://www.youtube.com/watch?v=SZcuHToDKmk)
   
   
