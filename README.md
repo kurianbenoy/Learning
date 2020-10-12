@@ -73,6 +73,7 @@
 - [ ] [Extracting sentiment attitudes from Analytical Text](https://paperswithcode.com/paper/extracting-sentiment-attitudes-from)
 - [x] Array programming with numpy
 - [x] Efficent Transformers(survey)
+- [x] [Multi-entity sentiment analysis using entity-level feature extraction and word embeddings approach](https://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP094.pdf)
 
 ## Online Course
 
@@ -94,8 +95,22 @@
     - [x] Archetypes
     - [x] Metrics
     - [x] Baselines
+  - [x] Data Management
+  - [x] Infrastructure
+  - [x] ML Teams
+  - [x] Training
+  - [ ] Labs
+  - [ ] Guest Lectures
  
 - FastAI(Practical course for beginners) - 2020 
+  - [ ] Lesson 1
+  - [ ] Lesson 2
+  - [ ] Lesson 3
+  - [ ] Lesson 4
+  - [ ] Lesson 5
+  - [ ] Lesson 6
+  - [ ] Lesson 7
+  - [ ] Lesson 8
 
 ## Books
 
@@ -122,6 +137,6 @@
   - [x] [Art for Tensorflow by Margaret](https://www.youtube.com/watch?v=scICM4A2uMQ)
   - [x] [Network like a pro-sanyam](https://www.youtube.com/watch?v=joQ98JUIWV4)
   - [x] [Ensembling, Blending and stacking](https://www.youtube.com/watch?v=TuIgtitqJho)
-  - [ ] [The Don'ts of Data Science & Kaggling" with Rohan Rao](https://www.youtube.com/watch?v=SZcuHToDKmk)
+  - [x] [The Don'ts of Data Science & Kaggling" with Rohan Rao](https://www.youtube.com/watch?v=SZcuHToDKmk)
   
   
