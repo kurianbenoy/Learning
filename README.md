@@ -1,6 +1,6 @@
 # Learning
 
-- learn something new everyday
+- "Learn something new everyday to ignite your inner self"
 - What I cannot create, I do not understand
 
 ## Buisness Domain knowledge
