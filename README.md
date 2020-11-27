@@ -3,6 +3,9 @@
 - "Learn something new everyday to ignite your inner self"
 - What I cannot create, I do not understand
 
+![image](https://user-images.githubusercontent.com/24592806/100405827-6bf88000-308a-11eb-8d58-07fa71a6ba7f.png)
+
+[source- Secret Thoughts of Successfull Hacker](https://www.youtube.com/watch?v=M6xlhTqATyM)
 ## Buisness Domain knowledge
 
 * Redash
