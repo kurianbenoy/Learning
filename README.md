@@ -143,5 +143,6 @@
   - [x] [The Don'ts of Data Science & Kaggling" with Rohan Rao](https://www.youtube.com/watch?v=SZcuHToDKmk)
   - [x] [Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram](https://www.youtube.com/watch?v=AQsZsgJ30AE)
   - [x] [Python Packaging - Where We Are and Where We're Headed - Pradyun Gedam ](https://pyvideo.org/pycon-india-2019/python-packaging-where-we-are-and-where-were-headed-pradyun-gedam.html)
+  - [x] [Secret Thoughts of Successfull Hacker](https://www.youtube.com/watch?v=M6xlhTqATyM) 
   
   
