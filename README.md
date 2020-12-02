@@ -66,6 +66,11 @@
 
 - [x] [Generators](https://realpython.com/introduction-to-python-generators/)
 
+## Server Side
+
+- [x] [A Guide to ASGI in Django 3.0 and its Performance ](https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance/)
+- [ ] [Async Django views](https://arunrocks.com/django-async-views-examples/)
+- [x] [Flask RestJSONAPI](https://flask-rest-jsonapi.readthedocs.io/en/latest/)
 
 ## Research Papers
 
