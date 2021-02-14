@@ -129,10 +129,10 @@
   - [x] Cross-validation
   - [x] Evaluation Metrics
   - [x] Supervised vs Unsupervised learning
-  - [ ] Approaching almost any CV problem
+  - [x] Approaching almost any CV problem
   - [x] Approaching text classification/regression
   - [x] Approaching ensembling and stacking
-  - [ ] Approaching reproducible code & model serving
+  - [x] Approaching reproducible code & model serving
   - [x] Hyperparameter optimization
   - [x] Arranging ML projects
   
@@ -149,5 +149,9 @@
   - [x] [Inside the Cheeseshop: How Python Packaging Works - Dustin Ingram](https://www.youtube.com/watch?v=AQsZsgJ30AE)
   - [x] [Python Packaging - Where We Are and Where We're Headed - Pradyun Gedam ](https://pyvideo.org/pycon-india-2019/python-packaging-where-we-are-and-where-were-headed-pradyun-gedam.html)
   - [x] [Secret Thoughts of Successfull Hacker](https://www.youtube.com/watch?v=M6xlhTqATyM) 
+  - [x] [The Path to Mastery - Anand Chitipothu](https://youtu.be/OFKiVEl-cYw)
+  
+  Mastery is about getting better yourself. Pitfalls like GSoc, Competitive. Think why you are doing? Are you doing for
+  recognition or because you like it
   
   
